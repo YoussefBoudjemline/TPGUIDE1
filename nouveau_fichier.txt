@@ -1,0 +1,2 @@
+﻿Ceci est la première ligne du depot TPGUIDE1
+La fonction finale de calcul est revue par le binome.
